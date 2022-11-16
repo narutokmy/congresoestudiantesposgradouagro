@@ -2,6 +2,10 @@
 
 Plantilla para ponencias.
 
+
+<img src="https://github.com/narutokmy/congresoestudiantesposgradouagro/blob/main/imgGithub/portadaparaReadme.png?raw=true">
+
+
 Los Detalles se ponen a continuación
 
 TÍTULO DEL TRABAJO (NO MAYOR A 20 PALABRAS. EN MAYÚSCULAS, NEGRITAS Y CENTRADO)
