@@ -1,4 +1,4 @@
-# Congreso de Estudiantes de Posgrado Uagro
+# Congreso de Estudiantes de Posgrado UAGro
 
 Plantilla para ponencias.
 
