@@ -35,7 +35,18 @@ CONTENIDO DEL ESCRITO (extensión de 2 a 5 cuartillas)
 
 Bibliografía: (formato APA 6a. Ed.)
 
+¿Cómo descargar y iniciar a utilizar la plantilla?
 
+<img src="https://github.com/narutokmy/congresoestudiantesposgradouagro/blob/main/imgGithub/comousar.png?raw=true"> 
+
+Pasos 
+
+    1. Pinchar en el boton verde <h2> Code </h2>
+
+    2. Pinchar en el Download.
+
+    3. Luego de descargado el archivo zip podeis subirlo al overleaf o descomprimirlo y comenzar
+       a utilizarlo con algun editor de latex como TeXMaker o TexStudio.
 
 
 
