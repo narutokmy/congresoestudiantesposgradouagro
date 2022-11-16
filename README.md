@@ -35,6 +35,15 @@ Bibliografía: (formato APA 6a. Ed.)
 
 
 
+% Plantilla Desarrollada por M.Sc. Camilo Mora Batista
+% Profesor Asistente Universidad de Holguín, Cuba 
+% Estudiante de Posgrado Universidad Autónoma de Guerrero
+% Chilpancingo de los Bravos, Guerrero, México 
+
+
+
+
+
 
 
 
