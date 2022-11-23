@@ -3,46 +3,47 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: eventoUagro.aux
 The style file: plain.bst
 Database file #1: refuagro.bib
+Warning--empty booktitle in j_alberto_cuesta_search_2022
 Warning--empty publisher in luis_velazquez_perez_ataxia_2012
-You've used 18 entries,
+You've used 40 entries,
             2118 wiz_defined-function locations,
-            612 strings with 10200 characters,
-and the built_in function-call counts, 8631 in all, are:
-= -- 765
-> -- 717
-< -- 2
-+ -- 284
-- -- 266
-* -- 817
-:= -- 1540
-add.period$ -- 61
-call.type$ -- 18
-change.case$ -- 185
+            740 strings with 18421 characters,
+and the built_in function-call counts, 20927 in all, are:
+= -- 1823
+> -- 1848
+< -- 3
++ -- 733
+- -- 692
+* -- 2072
+:= -- 3734
+add.period$ -- 131
+call.type$ -- 40
+change.case$ -- 464
 chr.to.int$ -- 0
-cite$ -- 19
-duplicate$ -- 208
-empty$ -- 444
-format.name$ -- 266
-if$ -- 1638
+cite$ -- 42
+duplicate$ -- 458
+empty$ -- 1008
+format.name$ -- 692
+if$ -- 3927
 int.to.chr$ -- 0
-int.to.str$ -- 18
-missing$ -- 19
-newline$ -- 99
-num.names$ -- 36
-pop$ -- 163
+int.to.str$ -- 40
+missing$ -- 41
+newline$ -- 213
+num.names$ -- 80
+pop$ -- 401
 preamble$ -- 1
-purify$ -- 169
+purify$ -- 426
 quote$ -- 0
-skip$ -- 135
+skip$ -- 297
 stack$ -- 0
-substring$ -- 373
-swap$ -- 27
-text.length$ -- 2
+substring$ -- 905
+swap$ -- 55
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 68
-warning$ -- 1
-while$ -- 59
-width$ -- 20
-write$ -- 211
-(There was 1 warning)
+type$ -- 156
+warning$ -- 2
+while$ -- 137
+width$ -- 42
+write$ -- 461
+(There were 2 warnings)

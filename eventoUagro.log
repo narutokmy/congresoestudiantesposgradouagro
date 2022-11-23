@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.7)  15 NOV 2022 23:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.7)  22 NOV 2022 19:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -221,33 +221,54 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1
 
-{/home/kamilo/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./leftheader2.png> <./centerlistheadaer.jpg> <./rightheader2.jpg> <./rightheader1.png>] [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 101--104
-
- []
-
-[4] (./eventoUagro.bbl [5]
-Underfull \hbox (badness 2253) in paragraph at lines 108--117
+{/home/kamilo/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./leftheader2.png> <./centerlistheadaer.jpg> <./rightheader2.jpg> <./rightheader1.png>] [2]
+<resonanciamarcada.png, id=20, 892.33376pt x 791.95876pt>
+File: resonanciamarcada.png Graphic file (type png)
+<use resonanciamarcada.png>
+Package pdftex.def Info: resonanciamarcada.png  used on input line 85.
+(pdftex.def)             Requested size: 446.16579pt x 395.97841pt.
+ [3 <./resonanciamarcada.png>] [4] (./eventoUagro.bbl [5] [6] [7]
+Underfull \hbox (badness 2253) in paragraph at lines 241--250
 []\T1/ptm/m/n/12 Roberto Rodríguez-Labrada, Ana Car-oli-na Mar-tins, Jonathan J. Ma-g-a-ña, Yaimeé
  []
 
-) [6] (./eventoUagro.aux
+[8]
+Underfull \hbox (badness 2096) in paragraph at lines 266--274
+[]\T1/ptm/m/n/12 Sina Straub, Stephanie Man-ge-sius, Ju-lian Em-merich, Elis-a-bet-ta In-del-i-ca-to, Wolf-
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 266--274
+\T1/ptm/m/n/12 Gizews-ki.  To-ward quan-ti-ta-tive neu-roimag-ing biomark-ers for Friedre-ich's atax-
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 266--274
+\T1/ptm/m/n/12 ia at 7 Tes-la: Sus-cep-ti-bil-i-ty map-ping, dif-fu-sion imag-ing, R2 and R1 re-lax-om-
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 266--274
+\T1/ptm/m/n/12 e-try.  \T1/ptm/m/it/12 Jour-nal of Neu-ro-science Re-search\T1/ptm/m/n/12 , 98(11):2219--2231, 2020.  _eprint:
+ []
+
+) [9] (./eventoUagro.aux
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
 ) ) 
 Here is how much of TeX's memory you used:
- 3598 strings out of 476931
- 58227 string characters out of 5825240
- 423982 words of memory out of 5000000
- 24824 multiletter control sequences out of 15000+600000
- 491172 words of font info for 53 fonts, out of 8000000 for 9000
+ 3635 strings out of 476931
+ 59019 string characters out of 5825240
+ 423119 words of memory out of 5000000
+ 24859 multiletter control sequences out of 15000+600000
+ 493975 words of font info for 55 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,16n,62p,1404b,396s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,16n,62p,1267b,396s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/home/kamilo/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}</home/kamilo/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/kamilo/.TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/kamilo/.TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></home/kamilo/.TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></home/kamilo/.TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on eventoUagro.pdf (6 pages, 586124 bytes).
+Output written on eventoUagro.pdf (9 pages, 1476265 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 68 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
